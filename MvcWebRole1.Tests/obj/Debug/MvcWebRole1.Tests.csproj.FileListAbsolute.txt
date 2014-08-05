@@ -1,0 +1,11 @@
+c:\users\yangyapeng\documents\visual studio 2012\Projects\WindowsAzure1\MvcWebRole1.Tests\bin\Debug\MvcWebRole1.Tests.dll.config
+c:\users\yangyapeng\documents\visual studio 2012\Projects\WindowsAzure1\MvcWebRole1.Tests\bin\Debug\MvcWebRole1.Tests.dll
+c:\users\yangyapeng\documents\visual studio 2012\Projects\WindowsAzure1\MvcWebRole1.Tests\bin\Debug\MvcWebRole1.Tests.pdb
+c:\users\yangyapeng\documents\visual studio 2012\Projects\WindowsAzure1\MvcWebRole1.Tests\bin\Debug\MvcWebRole1.dll
+c:\users\yangyapeng\documents\visual studio 2012\Projects\WindowsAzure1\MvcWebRole1.Tests\bin\Debug\EntityFramework.dll
+c:\users\yangyapeng\documents\visual studio 2012\Projects\WindowsAzure1\MvcWebRole1.Tests\bin\Debug\MvcWebRole1.pdb
+c:\users\yangyapeng\documents\visual studio 2012\Projects\WindowsAzure1\MvcWebRole1.Tests\bin\Debug\EntityFramework.xml
+c:\users\yangyapeng\documents\visual studio 2012\Projects\WindowsAzure1\MvcWebRole1.Tests\bin\Debug\zh-Hans\EntityFramework.resources.dll
+c:\users\yangyapeng\documents\visual studio 2012\Projects\WindowsAzure1\MvcWebRole1.Tests\obj\Debug\MvcWebRole1.Tests.csprojResolveAssemblyReference.cache
+c:\users\yangyapeng\documents\visual studio 2012\Projects\WindowsAzure1\MvcWebRole1.Tests\obj\Debug\MvcWebRole1.Tests.dll
+c:\users\yangyapeng\documents\visual studio 2012\Projects\WindowsAzure1\MvcWebRole1.Tests\obj\Debug\MvcWebRole1.Tests.pdb
